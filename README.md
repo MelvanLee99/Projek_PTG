@@ -1,4 +1,4 @@
-# Projek_PTG
+# Timetable Schedule Problem
 Final Project MA3051 Introduction to Graph Theory
 
 Created by:
